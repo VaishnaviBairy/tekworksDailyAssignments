@@ -1,1 +1,99 @@
+CREATE TABLE Student (
+    sno INT PRIMARY KEY,
+    Sname VARCHAR(50),
+    marks float,
+    city VARCHAR(50),
+    mobile int,
+    gender varchar(20)
+);
+Insert sample data
+INSERT INTO Student (sno, Sname, marks, city, mobile, gender)
+VALUES
+ (1, 'John Doe', 85.5, 'New York', '1234567890', 'Male'),
+    (2, 'Alice Smith', 92.3, 'Los Angeles', '9876543210', 'Female'),
+    (3, 'Bob Brown', 78.9, 'Chicago', '5432167890', 'Male'),
+    (4, 'Eve White', 88.0, 'Houston', '1029384756', 'Female'),
+    (5, 'Charlie Black', 95.5, 'San Francisco', '5647382910', 'Male'),
+    (6, 'Jack Doe', 85.5, 'New York', '5680992378', 'Male'),
+    (7, 'Adam S', 92.3, 'Los Angeles', '8239878328', 'Female'),
+    (8, 'Brownie', 78.9, 'Chicago', '12939783248', 'Male'),
+    (9, 'White Smith', 88.0, 'Houston', '7632765387', 'Female'),
+    (10, 'Charlie Puth', 95.5, 'San Francisco', '1827876239', 'Male'),
+    (11, 'Justin Bieber', 85.5, 'New York', '2367237632', 'Male'),
+    (12, 'Ali Mohammad', 92.3, 'Los Angeles', '2039873378', 'Female'),
+    (13, 'Bob Dylan', 78.9, 'Chicago', '3873689272', 'Male'),
+    (14, 'Kim Yoongi', 88.0, 'Houston', '8378127837', 'Female'),
+    (15, 'Charlie Black', 95.5, 'San Francisco', '0203987276', 'Male');
+    
+
+mysql> select *from Student where city='New York';
+
+mysql> select *from Student where city in('New York', 'Chicago');
+
+mysql> select *from Student where (gender='Female' and city='New York') or (gender='Male' and city='San Francisco') or (city='Houston');
+
+mysql> select *from Student where (gender='Male' and city='New York' and marks >70) or (gender='Female'and city='New York' and marks>50);
+
+mysql>select *from Student where (gender='Male' and city='Houston');
+
+mysql> select *from Student where not city='Los Angeles';
+
+mysql> select *from Student where marks between 50 and 80 and city in('Los Angeles', 'Chicago');
+
+mysql> select *from Student where Sname like 'B%e';
+
+mysql> SELECT city, AVG(marks) AS average_marks
+    -> FROM Student
+    -> GROUP BY city
+    -> ORDER BY average_marks DESC
+    -> LIMIT 1;
+
+mysql> select city ,max(marks) as top_score from Student group by city;
+mysql> select city ,max(marks) as top_score from Student where city='Los Angeles';
+
+
+create table salespeoples(
+snum int not null,sname varchar(30) not null,city varchar(30) not null, comm DECIMAL(4,2) not null, PRIMARY KEY(snum));
+
+
+INSERT INTO salespeoples (snum, sname, city, comm)
+VALUES
+    (1001, 'Peel', 'London', 0.12),
+    (1002, 'Serres', 'San Jose', 0.13),
+    (1003, 'AlexRod', 'New York', 0.10),
+    (1004, 'Motika', 'London', 0.11),
+    (1005, 'Fran', 'London', 0.26),
+    (1006, 'Rifkin', 'Barcelona', 0.15);
+
+
+CREATE TABLE customer (
+    cnum INT NOT NULL,
+    cname VARCHAR(20) NOT NULL,
+    city VARCHAR(30),
+    rating INT NOT NULL,
+    snum INT NOT NULL,
+    PRIMARY KEY(cnum),
+    FOREIGN KEY(snum) REFERENCES salespeoples(snum)
+);
+
+
+INSERT INTO customer (cnum, cname, city, rating, snum)
+VALUES
+    (2001, 'Hoffman', 'London', 100, 1001),
+    (2002, 'Giovanni', 'Rome', 200, 1003),
+    (2003, 'Liu', 'San Jose', 200, 1002),
+    (2004, 'Grass', 'Berlin', 300, 1002),
+    (2006, 'Clemens', 'London', 100, 1001),
+    (2007, 'Cisneros', 'San Jose', 300, 1006),
+    (2008, 'Pereira', 'Rome', 100, 1004);
+	
+
+SELECT snum, COUNT(*) AS num_customers FROM customer GROUP BY snum;
+
+SELECT snum, SUM(rating) AS total_rating FROM customer GROUP BY snum ORDER BY total_rating DESC LIMIT 1;
+
+
+
+
+
 
