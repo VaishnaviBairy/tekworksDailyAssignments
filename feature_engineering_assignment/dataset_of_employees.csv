@@ -1,0 +1,1001 @@
+ID,Age,Salary,Education Level,Job Role,Work Experience (Years),City,Has Car,Purchase Amount
+1,56,146748.0,,Clerk,18,Chicago,Yes,8722.84
+2,46,35287.0,Master's,Technician,25,San Francisco,No,1477.0
+3,32,64387.0,,Engineer,28,San Francisco,Yes,1696.57
+4,60,38512.0,,Manager,21,New York,Yes,9801.94
+5,25,31342.0,High School,,39,San Francisco,No,6901.47
+6,38,93076.0,PhD,Clerk,20,San Francisco,No,8545.43
+7,56,138872.0,High School,Manager,37,Chicago,Yes,3581.13
+8,36,49216.0,Bachelor's,Clerk,19,San Francisco,No,6926.6
+9,40,147512.0,Bachelor's,Clerk,28,Chicago,No,6145.3
+10,28,146682.0,PhD,Clerk,3,Chicago,Yes,6229.93
+11,28,123070.0,Bachelor's,Manager,6,San Francisco,Yes,6984.06
+12,41,,Bachelor's,Clerk,27,New York,No,5965.91
+13,53,127829.0,Master's,Technician,27,New York,Yes,4576.09
+14,57,56614.0,Master's,Engineer,3,Houston,Yes,3121.27
+15,41,66258.0,Bachelor's,Engineer,21,Houston,Yes,7801.52
+16,20,123789.0,PhD,Clerk,11,San Francisco,Yes,2649.59
+17,39,72078.0,Master's,Engineer,2,New York,Yes,7077.37
+18,19,136288.0,High School,Manager,21,Chicago,Yes,2716.66
+19,41,113524.0,High School,Manager,1,Houston,Yes,6440.64
+20,61,126573.0,High School,Engineer,23,Chicago,No,7597.24
+21,47,42219.0,PhD,Manager,33,Houston,Yes,2577.78
+22,55,30235.0,Bachelor's,Engineer,26,San Francisco,No,1069.46
+23,19,,High School,Engineer,0,New York,No,1744.25
+24,38,97444.0,PhD,Engineer,7,Houston,No,6256.97
+25,50,38567.0,Master's,Clerk,22,New York,Yes,8569.74
+26,29,131834.0,Bachelor's,Engineer,37,Chicago,Yes,927.47
+27,39,100792.0,Master's,Clerk,5,San Francisco,No,7474.44
+28,61,95441.0,PhD,Engineer,21,New York,Yes,3742.53
+29,42,114555.0,High School,Engineer,24,San Francisco,No,5046.02
+30,44,103698.0,High School,Engineer,17,New York,Yes,9324.17
+31,59,147248.0,PhD,Manager,16,Chicago,Yes,3653.73
+32,45,35415.0,High School,Clerk,11,Chicago,No,4920.7
+33,33,66159.0,Bachelor's,Clerk,5,San Francisco,No,629.98
+34,32,,PhD,,25,Chicago,No,1275.19
+35,64,35951.0,Master's,Engineer,26,Houston,Yes,2956.62
+36,61,117388.0,PhD,Manager,7,New York,No,764.6
+37,20,38007.0,Bachelor's,Manager,18,Chicago,Yes,6498.07
+38,54,71832.0,Bachelor's,Manager,0,Houston,Yes,4550.78
+39,24,88596.0,PhD,Clerk,28,San Francisco,Yes,5707.38
+40,38,60523.0,PhD,Clerk,34,Houston,No,2159.15
+41,26,118861.0,High School,Clerk,39,San Francisco,No,3311.35
+42,56,116740.0,Bachelor's,Engineer,13,San Francisco,No,6806.33
+43,35,45524.0,PhD,Clerk,34,New York,Yes,9670.38
+44,21,49282.0,PhD,Technician,19,New York,Yes,978.96
+45,42,53930.0,,Technician,12,Houston,No,8958.65
+46,31,30077.0,PhD,Manager,37,New York,Yes,5980.37
+47,26,135881.0,High School,Clerk,7,New York,Yes,5857.24
+48,43,50611.0,Bachelor's,Technician,19,New York,No,5252.65
+49,19,46984.0,High School,Manager,32,Houston,No,1159.24
+50,37,44060.0,High School,Clerk,25,Chicago,No,1353.83
+51,45,112985.0,High School,Engineer,38,New York,Yes,6208.66
+52,64,114056.0,High School,Technician,20,New York,Yes,3739.11
+53,24,73303.0,Bachelor's,Engineer,8,Houston,Yes,9214.05
+54,61,89207.0,High School,Clerk,23,Chicago,Yes,4362.61
+55,25,105046.0,High School,Technician,36,New York,Yes,1861.17
+56,64,59287.0,PhD,Clerk,16,San Francisco,No,7289.83
+57,52,123709.0,Bachelor's,Engineer,23,Houston,Yes,3286.86
+58,31,69711.0,Bachelor's,Technician,20,New York,Yes,5491.97
+59,34,41954.0,Master's,Engineer,38,New York,Yes,7129.41
+60,53,,Bachelor's,Clerk,38,San Francisco,No,9052.51
+61,57,102101.0,,Clerk,12,San Francisco,No,8025.82
+62,21,101520.0,Master's,Engineer,10,Houston,No,6925.43
+63,19,117062.0,Bachelor's,Technician,18,Houston,Yes,6956.52
+64,23,132974.0,Bachelor's,Engineer,10,San Francisco,No,9486.28
+65,59,48574.0,Bachelor's,Clerk,12,Houston,No,3310.33
+66,21,39184.0,Bachelor's,Engineer,0,San Francisco,No,510.56
+67,46,49096.0,Master's,Clerk,39,New York,Yes,3083.57
+68,35,97728.0,,Engineer,18,San Francisco,No,2569.97
+69,43,64016.0,Bachelor's,Technician,11,San Francisco,Yes,6787.43
+70,61,41246.0,Master's,Technician,7,Chicago,Yes,6520.26
+71,51,75558.0,PhD,Engineer,7,San Francisco,No,6137.88
+72,27,148721.0,High School,Engineer,11,San Francisco,Yes,654.31
+73,53,48381.0,PhD,Technician,32,Chicago,No,7423.39
+74,31,66455.0,Master's,Clerk,25,Houston,Yes,3573.54
+75,48,122263.0,High School,Technician,38,Chicago,No,6818.03
+76,32,34018.0,Master's,Clerk,27,New York,No,5787.5
+77,25,41302.0,Master's,Engineer,4,Chicago,No,3755.94
+78,31,97506.0,Bachelor's,Engineer,7,New York,Yes,1778.47
+79,40,71157.0,High School,Clerk,24,Houston,No,1396.98
+80,57,84917.0,Bachelor's,Engineer,26,Chicago,Yes,8399.42
+81,38,122738.0,High School,Clerk,22,Chicago,No,9224.78
+82,33,126646.0,Master's,Manager,29,Houston,Yes,6672.99
+83,62,,Master's,Technician,22,New York,Yes,1482.62
+84,35,54519.0,PhD,Manager,19,Chicago,No,4319.26
+85,64,126809.0,High School,Clerk,17,New York,No,7424.92
+86,41,117487.0,Bachelor's,Technician,17,Chicago,No,7908.3
+87,43,86819.0,PhD,Clerk,1,San Francisco,No,1623.08
+88,42,110910.0,,Technician,3,Chicago,No,500.29
+89,62,101324.0,PhD,Technician,29,Houston,Yes,7265.3
+90,58,35408.0,Bachelor's,Technician,32,Houston,No,3887.66
+91,46,89379.0,PhD,Technician,35,New York,No,2917.57
+92,32,55053.0,Bachelor's,Clerk,17,Chicago,Yes,622.53
+93,62,39446.0,PhD,Technician,36,New York,No,5632.84
+94,18,30922.0,Bachelor's,Technician,18,New York,No,8585.93
+95,42,128723.0,Master's,Manager,27,San Francisco,Yes,9597.5
+96,24,81356.0,Master's,Engineer,39,San Francisco,No,5874.58
+97,26,40789.0,Master's,Engineer,19,Houston,No,5387.38
+98,41,127720.0,Master's,,32,New York,No,1308.04
+99,18,96656.0,Master's,Manager,11,Houston,Yes,5714.29
+100,61,74028.0,PhD,Clerk,14,Chicago,No,4109.8
+101,25,94484.0,PhD,Clerk,38,New York,Yes,6267.79
+102,41,62154.0,PhD,Clerk,1,New York,No,4192.9
+103,28,112870.0,Bachelor's,Manager,28,Chicago,Yes,2782.84
+104,34,,Bachelor's,Manager,9,Chicago,No,1402.17
+105,25,133677.0,Bachelor's,Technician,1,Houston,Yes,3491.73
+106,52,97779.0,Bachelor's,Clerk,10,Houston,Yes,1418.13
+107,52,49029.0,Master's,,12,Chicago,Yes,2180.52
+108,50,89201.0,Master's,Clerk,9,Houston,Yes,9879.69
+109,22,62265.0,Master's,Engineer,13,Chicago,Yes,4718.98
+110,59,132916.0,High School,Technician,17,New York,Yes,5552.78
+111,56,142250.0,PhD,Clerk,8,New York,No,8799.38
+112,58,146553.0,Bachelor's,Clerk,38,San Francisco,No,9957.9
+113,45,,Bachelor's,Clerk,27,New York,Yes,6035.79
+114,24,76197.0,Master's,Engineer,2,Chicago,Yes,8218.5
+115,26,85180.0,Bachelor's,Engineer,19,Houston,Yes,3605.94
+116,25,53710.0,Bachelor's,Manager,5,San Francisco,Yes,3404.57
+117,29,59486.0,PhD,Technician,26,Houston,No,4325.69
+118,51,101907.0,Master's,Manager,1,Chicago,Yes,6888.82
+119,50,101895.0,PhD,Technician,28,New York,No,6980.82
+120,40,94435.0,High School,Engineer,37,San Francisco,No,3494.77
+121,41,70631.0,High School,Clerk,2,Chicago,Yes,1765.49
+122,54,131532.0,High School,Manager,15,San Francisco,Yes,6507.76
+123,52,50103.0,Master's,Clerk,29,San Francisco,No,1719.1
+124,61,94772.0,Bachelor's,Manager,39,New York,No,5995.68
+125,57,44382.0,Master's,Engineer,1,Chicago,Yes,7087.51
+126,39,114291.0,Master's,Engineer,16,Houston,Yes,7155.81
+127,44,131195.0,Bachelor's,Engineer,11,San Francisco,Yes,7657.99
+128,52,33756.0,PhD,Manager,34,San Francisco,No,8792.16
+129,18,50609.0,High School,Technician,0,Houston,No,5249.61
+130,52,144074.0,PhD,Manager,14,Chicago,Yes,7437.37
+131,54,46478.0,High School,Technician,25,San Francisco,No,6382.14
+132,64,130978.0,Master's,Manager,36,San Francisco,No,2273.08
+133,31,69666.0,High School,Manager,20,San Francisco,Yes,744.05
+134,20,105683.0,Master's,Engineer,30,Chicago,Yes,3203.14
+135,18,129097.0,PhD,Clerk,24,Chicago,No,4708.82
+136,22,130420.0,Master's,Clerk,22,Houston,No,6362.51
+137,43,101315.0,PhD,Technician,23,Chicago,Yes,8574.61
+138,31,107834.0,Bachelor's,Clerk,37,Chicago,Yes,2364.33
+139,56,44153.0,Bachelor's,Manager,27,New York,Yes,1692.72
+140,44,139415.0,Bachelor's,Manager,20,Houston,Yes,9653.06
+141,26,106325.0,Master's,Engineer,17,San Francisco,Yes,1526.42
+142,32,139701.0,Bachelor's,Engineer,35,Chicago,No,5045.67
+143,32,42999.0,High School,Clerk,34,San Francisco,No,6062.86
+144,43,85318.0,PhD,Technician,8,San Francisco,No,5643.06
+145,59,30814.0,,Clerk,37,New York,No,1317.31
+146,30,145033.0,High School,Clerk,29,Chicago,Yes,1041.76
+147,49,106077.0,Master's,Clerk,33,Houston,Yes,1502.09
+148,56,120474.0,Master's,Clerk,31,Chicago,Yes,6063.08
+149,49,32443.0,PhD,Manager,2,San Francisco,No,5671.28
+150,21,105993.0,Bachelor's,Technician,2,Houston,No,2720.54
+151,47,105916.0,Master's,Manager,27,Chicago,No,6558.85
+152,54,103319.0,Master's,Technician,14,San Francisco,Yes,8290.64
+153,40,139777.0,High School,Engineer,22,San Francisco,No,895.0
+154,56,47368.0,High School,Clerk,39,New York,Yes,5232.23
+155,62,45328.0,Bachelor's,Manager,10,New York,Yes,7048.45
+156,32,86942.0,Master's,Technician,31,New York,Yes,2896.96
+157,60,121751.0,Master's,Engineer,35,San Francisco,Yes,3423.82
+158,46,129131.0,High School,Engineer,32,Chicago,Yes,6329.56
+159,53,57306.0,Master's,Clerk,23,New York,Yes,9030.39
+160,30,,PhD,Technician,38,Chicago,No,8194.28
+161,49,69915.0,High School,Manager,33,New York,Yes,6039.74
+162,24,67219.0,Bachelor's,Clerk,27,Houston,Yes,7437.11
+163,39,110879.0,High School,Manager,36,Houston,No,3965.81
+164,45,141939.0,Master's,Engineer,6,New York,Yes,6589.17
+165,19,94644.0,Bachelor's,Manager,3,San Francisco,No,4928.73
+166,59,90279.0,High School,Manager,36,New York,No,2304.39
+167,62,83028.0,PhD,Clerk,0,New York,No,7166.51
+168,23,134263.0,PhD,Manager,0,San Francisco,Yes,5786.41
+169,45,30126.0,High School,Clerk,19,Houston,Yes,3906.91
+170,45,82329.0,,Engineer,18,Chicago,No,9157.72
+171,61,57632.0,PhD,Clerk,28,New York,Yes,698.87
+172,61,137099.0,PhD,Clerk,9,San Francisco,Yes,3499.84
+173,37,95310.0,Bachelor's,Technician,17,New York,No,1040.37
+174,47,139945.0,PhD,Manager,27,San Francisco,No,7782.01
+175,28,85176.0,PhD,Engineer,34,Chicago,Yes,7170.02
+176,45,149797.0,PhD,Clerk,30,Chicago,No,3647.85
+177,42,116066.0,Bachelor's,Engineer,26,Houston,No,6918.8
+178,56,135500.0,High School,Technician,10,San Francisco,No,4261.4
+179,50,74327.0,Master's,Manager,37,San Francisco,Yes,7684.41
+180,18,98904.0,PhD,Clerk,4,Houston,Yes,4814.74
+181,44,33797.0,High School,Manager,7,Houston,Yes,4416.66
+182,30,77882.0,PhD,Technician,33,San Francisco,No,9379.93
+183,58,43718.0,Bachelor's,Technician,11,Houston,Yes,2883.35
+184,20,64560.0,High School,Engineer,37,Chicago,No,1644.25
+185,56,106589.0,,Clerk,0,New York,Yes,6053.16
+186,23,52116.0,PhD,Engineer,30,Chicago,Yes,9708.56
+187,25,66244.0,PhD,Technician,3,Houston,No,4089.47
+188,44,131721.0,Bachelor's,Manager,4,San Francisco,Yes,1089.35
+189,26,31645.0,Master's,Engineer,29,San Francisco,No,3723.4
+190,54,77523.0,Bachelor's,Engineer,23,Chicago,Yes,5306.35
+191,50,147718.0,PhD,Manager,2,San Francisco,Yes,2038.27
+192,59,49256.0,Bachelor's,Engineer,10,Houston,No,6751.97
+193,61,131376.0,Master's,Manager,3,Chicago,No,9978.62
+194,41,130158.0,Bachelor's,Clerk,25,San Francisco,No,4791.53
+195,32,83173.0,Master's,Manager,26,New York,Yes,3869.92
+196,49,67430.0,Master's,Clerk,26,New York,Yes,4306.69
+197,49,69282.0,Bachelor's,Manager,5,Houston,Yes,1593.89
+198,41,149719.0,Bachelor's,Technician,14,San Francisco,No,8891.1
+199,58,93374.0,High School,Technician,29,Houston,No,4440.84
+200,29,98244.0,PhD,Clerk,36,Chicago,No,4179.11
+201,56,41694.0,Master's,Clerk,36,New York,Yes,6767.06
+202,19,86264.0,High School,Technician,36,Chicago,Yes,4699.32
+203,20,105060.0,Bachelor's,Clerk,34,San Francisco,No,6658.22
+204,54,127416.0,PhD,Manager,22,Houston,Yes,1083.74
+205,34,87545.0,High School,Manager,5,Houston,No,8230.37
+206,19,148195.0,Master's,Technician,3,Houston,Yes,9434.79
+207,19,69224.0,High School,Engineer,17,Chicago,Yes,6663.27
+208,45,132516.0,Master's,Manager,8,New York,No,9568.38
+209,40,127945.0,Bachelor's,Clerk,28,Chicago,Yes,1938.61
+210,54,43224.0,PhD,Engineer,12,Chicago,Yes,5035.45
+211,49,70738.0,PhD,Engineer,16,San Francisco,No,6217.16
+212,50,55150.0,PhD,Manager,31,San Francisco,No,6026.5
+213,18,93731.0,Bachelor's,Manager,21,San Francisco,Yes,4313.89
+214,36,79688.0,Master's,Engineer,3,New York,No,3711.8
+215,19,129929.0,Bachelor's,Engineer,4,New York,Yes,1704.83
+216,61,138618.0,PhD,Technician,36,San Francisco,No,4221.55
+217,43,103509.0,Bachelor's,Clerk,12,San Francisco,Yes,2045.28
+218,49,38577.0,Bachelor's,Technician,33,New York,Yes,7476.47
+219,23,38070.0,Bachelor's,Manager,21,Houston,No,2483.89
+220,49,38666.0,Master's,Technician,22,New York,Yes,1056.37
+221,21,87761.0,High School,,2,New York,Yes,5747.48
+222,28,66368.0,High School,Technician,33,New York,No,6154.68
+223,34,36783.0,Bachelor's,Technician,31,San Francisco,No,8783.17
+224,55,141530.0,High School,Clerk,20,Houston,Yes,5981.33
+225,41,71914.0,High School,Clerk,20,New York,No,3782.07
+226,22,100507.0,Bachelor's,Engineer,10,San Francisco,No,8128.61
+227,51,109026.0,Bachelor's,Manager,38,Chicago,Yes,5632.65
+228,23,145893.0,PhD,Technician,3,Chicago,Yes,1253.16
+229,39,141255.0,High School,Engineer,0,New York,No,5875.58
+230,28,140616.0,Master's,Engineer,27,Chicago,No,9126.18
+231,33,97526.0,Bachelor's,Engineer,23,Houston,No,4264.97
+232,50,100835.0,PhD,Clerk,34,Chicago,Yes,3315.1
+233,26,,Master's,Technician,12,Chicago,Yes,1862.96
+234,23,49956.0,High School,Technician,33,Houston,Yes,1938.73
+235,33,117895.0,PhD,Manager,10,New York,Yes,4611.33
+236,46,76240.0,Bachelor's,Technician,35,New York,Yes,6158.96
+237,20,67148.0,Master's,Technician,16,Houston,Yes,1265.85
+238,37,124270.0,Bachelor's,Engineer,34,Houston,Yes,9425.9
+239,53,34757.0,High School,Manager,17,Houston,No,7673.77
+240,36,49097.0,Master's,Technician,39,Chicago,No,6072.93
+241,43,40395.0,High School,Clerk,21,Houston,Yes,8370.17
+242,20,46241.0,High School,Technician,23,San Francisco,Yes,1261.77
+243,36,133892.0,PhD,Engineer,18,Chicago,Yes,5029.97
+244,37,,Bachelor's,Clerk,36,New York,No,6485.88
+245,49,145654.0,Master's,Engineer,38,New York,Yes,8372.2
+246,24,100480.0,High School,Technician,20,New York,No,7942.96
+247,58,76163.0,High School,Clerk,7,Chicago,No,3132.16
+248,50,49816.0,Master's,Manager,27,San Francisco,No,9438.36
+249,57,79840.0,High School,Manager,4,Houston,No,1681.29
+250,56,132547.0,PhD,Clerk,16,Houston,No,8813.77
+251,35,82853.0,PhD,Clerk,36,New York,Yes,9723.93
+252,57,54917.0,PhD,Engineer,35,New York,Yes,2182.96
+253,18,,PhD,Clerk,18,Chicago,No,7359.63
+254,28,51566.0,High School,Engineer,26,San Francisco,Yes,882.71
+255,45,105452.0,Master's,Technician,33,Houston,No,4351.52
+256,42,92823.0,Master's,Engineer,10,Chicago,No,5404.69
+257,40,50806.0,Master's,,11,Houston,Yes,6016.13
+258,48,105520.0,Master's,,20,New York,Yes,9391.4
+259,47,31759.0,Bachelor's,Technician,10,Houston,Yes,6886.38
+260,59,71949.0,Master's,Clerk,38,San Francisco,Yes,5072.14
+261,52,122374.0,Bachelor's,Clerk,27,San Francisco,Yes,8191.91
+262,24,32482.0,Bachelor's,Manager,4,New York,No,9530.06
+263,33,,PhD,Manager,16,San Francisco,Yes,709.63
+264,43,63719.0,Bachelor's,Technician,19,San Francisco,Yes,9833.95
+265,19,88066.0,High School,Engineer,11,Chicago,Yes,1318.26
+266,18,123501.0,Bachelor's,Manager,5,Houston,No,8236.67
+267,29,32079.0,PhD,Engineer,16,New York,Yes,3163.18
+268,22,32717.0,Bachelor's,Clerk,18,New York,No,1755.71
+269,54,89676.0,High School,Manager,25,New York,Yes,4678.63
+270,49,57952.0,High School,Technician,31,New York,Yes,6617.59
+271,26,116444.0,High School,Technician,5,New York,No,4119.04
+272,58,72460.0,PhD,Technician,35,San Francisco,Yes,1018.37
+273,52,120397.0,PhD,Manager,37,Chicago,Yes,6194.88
+274,36,102847.0,Master's,Engineer,10,New York,No,9072.83
+275,33,123607.0,PhD,Clerk,32,Chicago,Yes,4140.55
+276,20,119106.0,High School,Engineer,23,Chicago,No,2555.16
+277,37,48449.0,High School,Engineer,22,San Francisco,No,4704.48
+278,41,63536.0,PhD,Clerk,14,New York,No,959.45
+279,50,94077.0,Bachelor's,Clerk,26,San Francisco,No,8294.63
+280,41,68258.0,PhD,Manager,10,New York,No,8350.24
+281,28,78302.0,PhD,Manager,16,San Francisco,Yes,6086.0
+282,25,58865.0,High School,Manager,13,Chicago,Yes,3854.48
+283,53,36645.0,Master's,Manager,26,New York,Yes,8097.94
+284,55,149771.0,High School,Manager,17,Houston,No,5769.53
+285,57,68000.0,Master's,Clerk,27,Chicago,No,8346.36
+286,37,56737.0,High School,Engineer,3,Houston,No,6498.86
+287,52,41485.0,PhD,Manager,6,Chicago,No,7951.85
+288,42,68565.0,High School,Manager,34,San Francisco,Yes,6186.35
+289,52,55522.0,High School,Engineer,8,New York,Yes,4434.34
+290,42,149614.0,High School,Manager,7,Chicago,No,9600.49
+291,46,95155.0,PhD,Engineer,16,San Francisco,No,5640.58
+292,35,,PhD,Engineer,16,New York,Yes,6248.35
+293,63,82487.0,PhD,Clerk,32,New York,No,2594.63
+294,35,42342.0,,Technician,31,Chicago,No,6443.68
+295,19,70806.0,Master's,Clerk,7,New York,No,5930.27
+296,52,78770.0,Master's,Technician,18,Chicago,Yes,2255.96
+297,33,108623.0,Bachelor's,Technician,37,New York,Yes,1066.08
+298,58,133177.0,PhD,Technician,2,Houston,No,6241.41
+299,53,129785.0,Master's,Manager,4,San Francisco,Yes,7755.08
+300,50,105629.0,High School,Clerk,12,Houston,No,5472.31
+301,21,82603.0,,Technician,30,Chicago,No,2654.34
+302,50,142726.0,Bachelor's,Engineer,15,Houston,Yes,6831.96
+303,31,111974.0,Bachelor's,Manager,31,Chicago,No,1261.0
+304,38,135947.0,Bachelor's,Clerk,21,New York,No,4697.42
+305,37,56399.0,High School,Technician,28,New York,Yes,2051.98
+306,25,115382.0,Master's,Engineer,21,Chicago,No,2252.36
+307,24,111244.0,High School,Clerk,2,Houston,No,2421.79
+308,20,139575.0,PhD,Clerk,9,New York,No,4173.72
+309,34,145520.0,Bachelor's,Manager,20,San Francisco,Yes,985.93
+310,50,140904.0,High School,Clerk,15,New York,No,4279.04
+311,29,106534.0,High School,Manager,11,San Francisco,Yes,5361.22
+312,39,85106.0,Master's,Technician,1,Houston,No,5091.3
+313,39,142599.0,Master's,Manager,23,San Francisco,No,4136.45
+314,63,60678.0,,Engineer,34,San Francisco,No,8471.89
+315,47,106218.0,High School,Manager,29,San Francisco,No,1880.6
+316,55,93230.0,High School,Engineer,29,San Francisco,Yes,5304.12
+317,55,144684.0,Master's,Manager,34,New York,Yes,1089.39
+318,62,104055.0,High School,Clerk,18,San Francisco,No,1175.98
+319,25,86373.0,High School,Technician,7,New York,No,5951.73
+320,44,61480.0,High School,Engineer,25,San Francisco,No,5877.18
+321,44,115230.0,Master's,Manager,39,Chicago,No,8841.32
+322,51,98836.0,Bachelor's,Manager,6,Houston,No,5799.8
+323,38,102258.0,PhD,Manager,29,San Francisco,No,9618.01
+324,47,69986.0,Bachelor's,Clerk,6,Chicago,No,962.6
+325,50,54160.0,PhD,Clerk,2,San Francisco,No,1431.07
+326,45,115595.0,High School,Engineer,0,San Francisco,Yes,918.63
+327,64,131358.0,Bachelor's,Engineer,35,San Francisco,Yes,2260.13
+328,50,109111.0,PhD,Clerk,24,Chicago,Yes,5642.07
+329,22,94929.0,Master's,Engineer,36,Houston,No,6632.94
+330,36,103506.0,Master's,Technician,0,Chicago,No,933.06
+331,21,64911.0,Bachelor's,Technician,14,Houston,No,9486.72
+332,52,117127.0,Bachelor's,Clerk,36,San Francisco,Yes,8500.57
+333,34,61821.0,High School,Engineer,12,New York,No,3317.82
+334,61,105039.0,Bachelor's,Manager,39,San Francisco,Yes,1233.28
+335,45,90535.0,High School,Technician,7,Houston,No,2113.93
+336,47,143453.0,High School,Clerk,4,Chicago,Yes,1705.97
+337,46,114458.0,Master's,Engineer,8,San Francisco,Yes,1671.2
+338,63,42175.0,Master's,Clerk,0,Chicago,Yes,5426.34
+339,23,149235.0,PhD,Manager,35,Chicago,No,2835.55
+340,52,84771.0,Master's,Technician,34,Chicago,Yes,3902.33
+341,58,136660.0,Master's,Clerk,1,San Francisco,No,9900.3
+342,54,116925.0,Bachelor's,Clerk,39,Chicago,No,7000.99
+343,41,143374.0,Master's,Clerk,22,Chicago,No,9515.32
+344,46,96358.0,PhD,Manager,8,San Francisco,No,1854.29
+345,63,47327.0,Bachelor's,Clerk,33,Chicago,No,4130.33
+346,48,,PhD,Manager,13,San Francisco,Yes,5769.95
+347,52,36150.0,Master's,Manager,3,Houston,No,1229.2
+348,50,34425.0,PhD,,29,Houston,No,539.78
+349,38,,Bachelor's,Technician,30,Houston,No,6869.13
+350,49,32198.0,High School,Technician,37,Chicago,No,6597.29
+351,40,90500.0,PhD,Clerk,10,New York,No,4402.49
+352,50,83394.0,PhD,Clerk,34,New York,Yes,5151.62
+353,20,50079.0,Bachelor's,Technician,7,Chicago,Yes,4446.71
+354,35,66220.0,Bachelor's,Engineer,2,New York,No,728.05
+355,42,71874.0,PhD,Technician,13,San Francisco,Yes,3686.03
+356,59,43859.0,Master's,Manager,12,New York,Yes,2182.28
+357,48,80460.0,PhD,,31,Chicago,No,1435.03
+358,20,61419.0,Bachelor's,Manager,33,Chicago,Yes,9588.84
+359,57,148865.0,High School,Clerk,18,San Francisco,No,6193.92
+360,63,,,,37,Houston,Yes,7422.23
+361,41,72880.0,Master's,Clerk,15,Chicago,Yes,3495.96
+362,49,53236.0,PhD,Manager,1,San Francisco,Yes,4234.9
+363,64,117955.0,,Manager,39,New York,No,2750.78
+364,39,115514.0,PhD,Manager,16,New York,Yes,1421.17
+365,40,133145.0,Bachelor's,Engineer,33,San Francisco,Yes,2200.8
+366,19,45358.0,High School,Technician,15,San Francisco,No,8076.38
+367,44,129713.0,Master's,Clerk,37,Chicago,No,6936.69
+368,59,124914.0,Bachelor's,Clerk,1,New York,Yes,5695.82
+369,19,132870.0,Master's,Technician,1,San Francisco,No,5013.35
+370,43,,Bachelor's,Clerk,25,New York,Yes,9263.13
+371,34,149179.0,High School,Engineer,12,San Francisco,Yes,1190.98
+372,57,146243.0,Master's,Clerk,30,New York,No,3165.71
+373,50,44596.0,Master's,Manager,33,Houston,No,3824.41
+374,26,63572.0,Bachelor's,Technician,38,Chicago,No,7933.05
+375,60,108757.0,Master's,Engineer,2,New York,Yes,9928.89
+376,56,31279.0,,Technician,7,Houston,No,2786.37
+377,46,93197.0,Bachelor's,Engineer,22,New York,Yes,8805.92
+378,59,141496.0,Bachelor's,Manager,13,New York,No,8390.92
+379,43,92516.0,Bachelor's,Technician,26,Houston,Yes,2634.25
+380,52,37083.0,High School,Clerk,28,New York,No,4293.66
+381,42,139397.0,Bachelor's,Engineer,38,New York,Yes,4391.89
+382,41,47771.0,PhD,Technician,38,Chicago,No,9793.1
+383,30,59975.0,Master's,Clerk,0,Houston,Yes,2218.47
+384,24,75648.0,PhD,Technician,16,Houston,No,8092.0
+385,53,,High School,Technician,29,San Francisco,No,3674.83
+386,62,49063.0,PhD,Technician,12,New York,Yes,7443.27
+387,37,97642.0,Master's,Engineer,20,Chicago,No,4490.1
+388,18,120093.0,PhD,Clerk,18,New York,Yes,5994.42
+389,25,144390.0,High School,Manager,18,New York,Yes,8409.81
+390,63,116143.0,Bachelor's,Engineer,24,San Francisco,No,8139.57
+391,33,67599.0,PhD,Engineer,21,New York,Yes,8731.02
+392,31,81920.0,High School,Engineer,30,Chicago,No,1066.36
+393,29,58529.0,High School,Manager,16,Chicago,No,7074.48
+394,40,65954.0,Master's,Clerk,22,San Francisco,Yes,1829.88
+395,32,57856.0,Master's,Clerk,31,New York,No,4450.28
+396,45,32573.0,PhD,Clerk,9,Chicago,Yes,5711.59
+397,51,108344.0,Bachelor's,Technician,9,New York,Yes,4326.03
+398,19,65367.0,High School,Technician,35,New York,No,5436.31
+399,49,132337.0,PhD,Technician,7,New York,No,9967.0
+400,40,136732.0,High School,Manager,19,San Francisco,Yes,1784.56
+401,39,129608.0,High School,Technician,31,New York,Yes,6916.83
+402,42,90774.0,Bachelor's,Manager,13,Chicago,No,4262.01
+403,39,53752.0,Bachelor's,Clerk,27,New York,No,1763.59
+404,39,85029.0,PhD,Technician,23,Chicago,No,2008.0
+405,59,47685.0,Bachelor's,Technician,14,New York,No,9518.09
+406,23,81693.0,Bachelor's,Engineer,21,Chicago,Yes,8856.21
+407,32,146739.0,PhD,Manager,29,Chicago,No,9116.9
+408,60,85961.0,Bachelor's,Clerk,3,New York,Yes,9919.56
+409,54,136937.0,Master's,Engineer,12,New York,Yes,2479.0
+410,50,106908.0,High School,Engineer,22,Chicago,No,3876.67
+411,25,104532.0,High School,Clerk,7,Houston,Yes,6857.58
+412,61,111994.0,High School,Engineer,17,San Francisco,No,5096.12
+413,61,86133.0,High School,Manager,11,Houston,Yes,4474.7
+414,22,127425.0,PhD,Manager,30,Houston,No,3899.21
+415,56,91268.0,High School,Technician,13,New York,Yes,6140.92
+416,21,122201.0,High School,Engineer,33,San Francisco,Yes,5968.14
+417,23,68243.0,High School,Technician,17,Houston,No,2033.85
+418,62,87384.0,High School,,33,New York,No,4981.53
+419,49,61653.0,Master's,Manager,10,Houston,Yes,5757.98
+420,47,56657.0,High School,Manager,11,Houston,Yes,5917.73
+421,64,69952.0,Master's,Manager,14,New York,No,2496.02
+422,52,52180.0,PhD,Engineer,30,New York,Yes,7551.58
+423,57,127432.0,Bachelor's,Manager,28,New York,No,739.39
+424,33,108411.0,High School,Engineer,25,San Francisco,Yes,3870.9
+425,30,31622.0,Bachelor's,Technician,17,Houston,No,7912.02
+426,59,78756.0,Bachelor's,Engineer,31,New York,Yes,5856.98
+427,47,70809.0,PhD,Technician,21,Chicago,No,2981.04
+428,36,46725.0,Bachelor's,Engineer,37,Houston,No,7102.05
+429,34,91396.0,Master's,Technician,16,Chicago,Yes,5890.21
+430,36,81226.0,Bachelor's,Manager,22,San Francisco,No,8064.31
+431,45,136296.0,Bachelor's,Technician,23,New York,Yes,7482.74
+432,43,,Bachelor's,Manager,7,Chicago,No,6296.03
+433,54,112565.0,High School,Manager,5,San Francisco,No,5137.69
+434,43,59402.0,High School,Technician,4,New York,No,1765.23
+435,40,34263.0,Master's,Engineer,28,Chicago,Yes,2982.66
+436,26,126523.0,Master's,Engineer,27,Chicago,No,4481.44
+437,29,76828.0,High School,Clerk,10,San Francisco,Yes,6193.34
+438,18,77924.0,Master's,Engineer,0,New York,No,5380.22
+439,18,104182.0,High School,Clerk,18,New York,Yes,3237.75
+440,64,123065.0,PhD,Engineer,8,Chicago,Yes,561.41
+441,51,89052.0,Bachelor's,Engineer,26,Chicago,Yes,5214.27
+442,49,41664.0,Bachelor's,Manager,33,Chicago,No,3213.45
+443,42,65737.0,Master's,Clerk,3,New York,Yes,7478.78
+444,57,131332.0,High School,Engineer,35,San Francisco,No,727.49
+445,62,119563.0,High School,Clerk,17,San Francisco,Yes,6055.86
+446,18,59373.0,Master's,Manager,14,New York,Yes,9444.01
+447,33,147369.0,High School,Manager,12,Houston,Yes,2156.89
+448,56,66397.0,PhD,Clerk,18,San Francisco,Yes,4980.67
+449,22,116145.0,Bachelor's,Manager,5,Chicago,No,1368.51
+450,39,131371.0,Master's,Technician,11,Houston,Yes,6443.98
+451,46,68709.0,Master's,Technician,36,Houston,Yes,5730.05
+452,20,146074.0,High School,Manager,16,San Francisco,No,4369.97
+453,29,91120.0,Master's,Technician,22,Houston,Yes,5453.08
+454,43,49250.0,PhD,Engineer,25,Houston,Yes,9017.46
+455,33,51172.0,High School,Clerk,28,San Francisco,Yes,2364.8
+456,54,41555.0,High School,Engineer,32,San Francisco,Yes,714.36
+457,39,,High School,Clerk,26,Houston,No,8685.82
+458,46,108617.0,High School,Manager,24,Chicago,No,5982.61
+459,31,83276.0,PhD,Engineer,9,New York,Yes,8961.26
+460,45,87492.0,High School,Manager,22,Houston,No,6170.98
+461,22,83002.0,Master's,Manager,20,Houston,No,8196.53
+462,64,119599.0,PhD,Clerk,20,Chicago,Yes,4581.9
+463,47,102355.0,Bachelor's,Clerk,12,Houston,No,7623.67
+464,63,121248.0,Bachelor's,Clerk,36,Houston,Yes,9173.89
+465,22,54762.0,Master's,Engineer,32,New York,No,5935.17
+466,29,41046.0,Master's,Technician,23,New York,No,2217.46
+467,33,126999.0,PhD,Clerk,10,New York,No,3053.58
+468,43,146021.0,Bachelor's,Clerk,16,San Francisco,Yes,2387.12
+469,43,58769.0,Bachelor's,Engineer,3,San Francisco,No,2845.14
+470,38,83302.0,Bachelor's,Clerk,24,New York,Yes,3410.95
+471,56,53150.0,Bachelor's,Engineer,29,New York,Yes,5773.77
+472,53,98247.0,Bachelor's,Manager,8,San Francisco,No,6085.92
+473,50,34853.0,High School,Clerk,20,Chicago,Yes,4551.75
+474,47,124613.0,Master's,Clerk,19,Houston,No,6346.5
+475,54,119399.0,High School,Manager,18,Houston,Yes,1274.96
+476,40,51792.0,Bachelor's,Manager,18,New York,Yes,1333.99
+477,27,89129.0,PhD,Manager,11,Chicago,No,2132.38
+478,22,136019.0,PhD,Clerk,36,San Francisco,No,5421.74
+479,53,104478.0,Bachelor's,Technician,16,New York,No,2532.95
+480,51,143811.0,Bachelor's,Technician,36,Chicago,No,3191.2
+481,48,144130.0,PhD,Technician,38,Chicago,Yes,4302.97
+482,27,97298.0,High School,Clerk,27,Chicago,Yes,8212.73
+483,36,61987.0,High School,Manager,34,San Francisco,Yes,631.69
+484,49,45850.0,Bachelor's,Clerk,17,San Francisco,No,6669.1
+485,18,42112.0,High School,Manager,13,Houston,Yes,6854.33
+486,22,54058.0,PhD,Clerk,34,Houston,No,8087.23
+487,62,75420.0,High School,Clerk,6,Chicago,Yes,9361.15
+488,21,68890.0,Bachelor's,Manager,12,Chicago,No,691.31
+489,33,96017.0,PhD,Technician,17,San Francisco,Yes,1960.95
+490,41,77304.0,High School,Manager,36,Houston,Yes,8918.63
+491,33,62921.0,Master's,Engineer,12,Chicago,No,4855.93
+492,19,135921.0,PhD,Engineer,35,Houston,Yes,5863.61
+493,45,31524.0,PhD,Manager,30,Houston,No,6798.76
+494,49,130424.0,Master's,Clerk,1,Chicago,Yes,6951.13
+495,44,45048.0,Master's,Engineer,15,San Francisco,Yes,9351.53
+496,37,65111.0,PhD,Engineer,8,Chicago,No,9971.02
+497,41,67904.0,Master's,Clerk,8,Chicago,No,7341.5
+498,29,84912.0,Bachelor's,Clerk,37,Houston,Yes,3228.6
+499,52,,Bachelor's,Technician,10,Chicago,Yes,8857.65
+500,50,30060.0,Bachelor's,Clerk,21,San Francisco,Yes,967.6
+501,50,104666.0,PhD,Manager,32,Chicago,Yes,2695.27
+502,60,113559.0,Master's,Manager,35,San Francisco,Yes,9025.16
+503,54,85337.0,Master's,Technician,22,San Francisco,Yes,2933.82
+504,29,140616.0,High School,Engineer,33,Houston,No,2596.19
+505,20,43350.0,High School,Engineer,8,New York,No,1812.19
+506,18,,Master's,Clerk,23,New York,No,8661.56
+507,50,75186.0,Master's,Manager,7,Houston,Yes,5250.55
+508,57,58145.0,Master's,Engineer,6,Chicago,Yes,6911.49
+509,27,64020.0,PhD,Technician,35,Houston,Yes,2771.13
+510,60,116123.0,Master's,Technician,17,San Francisco,No,7701.38
+511,61,136667.0,High School,Manager,2,New York,No,7720.05
+512,46,105186.0,PhD,Technician,27,Houston,Yes,3469.68
+513,30,115469.0,Master's,Technician,5,Chicago,Yes,4401.49
+514,29,,High School,Manager,20,Houston,No,2492.06
+515,48,118929.0,PhD,Clerk,27,New York,No,9777.33
+516,63,53051.0,Master's,Clerk,39,Houston,No,6633.22
+517,19,81474.0,Master's,Technician,0,Houston,Yes,9378.17
+518,52,,Master's,Clerk,35,New York,Yes,3382.16
+519,40,144618.0,PhD,Clerk,20,San Francisco,Yes,7927.96
+520,34,99626.0,High School,Technician,34,San Francisco,No,7775.66
+521,43,36960.0,High School,Clerk,12,New York,No,7070.73
+522,25,65772.0,Bachelor's,Technician,9,Houston,Yes,9673.57
+523,46,51520.0,Master's,Engineer,9,New York,Yes,4238.78
+524,43,79481.0,Bachelor's,Manager,12,San Francisco,No,1741.81
+525,27,66408.0,Bachelor's,Manager,36,Chicago,Yes,6881.23
+526,43,124006.0,High School,Clerk,37,Houston,No,7428.44
+527,51,87134.0,PhD,Clerk,23,San Francisco,No,5963.08
+528,58,50491.0,PhD,Clerk,1,Houston,Yes,2464.77
+529,24,31341.0,High School,Manager,21,New York,No,5292.33
+530,21,74623.0,PhD,Engineer,16,Chicago,Yes,3465.8
+531,62,120327.0,Bachelor's,Engineer,35,New York,No,4560.93
+532,28,30338.0,Master's,Manager,13,Chicago,No,6629.58
+533,46,101431.0,High School,Engineer,9,Houston,Yes,7579.54
+534,53,42254.0,Master's,Manager,34,Houston,No,2706.13
+535,42,81860.0,PhD,Engineer,24,New York,Yes,4350.59
+536,38,41344.0,Master's,Technician,2,Chicago,Yes,3057.03
+537,53,31750.0,PhD,Technician,37,Chicago,No,2387.0
+538,27,84756.0,PhD,Manager,16,Houston,Yes,7942.18
+539,54,97957.0,Bachelor's,Engineer,11,New York,Yes,9137.9
+540,26,135423.0,PhD,Clerk,23,Chicago,Yes,4017.21
+541,41,88053.0,Bachelor's,Engineer,28,Houston,Yes,7637.15
+542,52,100855.0,Bachelor's,Technician,24,San Francisco,Yes,9021.46
+543,52,45896.0,Bachelor's,Technician,35,New York,Yes,8538.18
+544,53,85761.0,High School,Engineer,25,San Francisco,No,2236.73
+545,35,92552.0,High School,Engineer,37,New York,Yes,9584.77
+546,56,107454.0,PhD,Clerk,0,Houston,No,4078.43
+547,49,148681.0,Bachelor's,Clerk,19,Chicago,No,3722.79
+548,41,120600.0,High School,Engineer,27,Chicago,Yes,1093.1
+549,40,142153.0,Bachelor's,Engineer,15,Chicago,No,5118.65
+550,49,57935.0,Master's,Engineer,16,New York,No,1535.63
+551,54,67641.0,Master's,Engineer,39,Houston,Yes,2861.13
+552,29,59711.0,Master's,Manager,27,San Francisco,Yes,3510.95
+553,30,100342.0,PhD,Engineer,11,Houston,Yes,8183.85
+554,40,136896.0,Bachelor's,Clerk,26,San Francisco,No,8817.14
+555,42,42182.0,Master's,Technician,29,New York,No,3373.43
+556,52,117833.0,High School,Manager,33,New York,Yes,8657.63
+557,58,86276.0,Master's,Engineer,36,San Francisco,Yes,8643.69
+558,47,49541.0,Master's,Technician,5,San Francisco,No,7764.18
+559,34,124457.0,,Manager,6,San Francisco,No,1893.6
+560,37,112310.0,PhD,Technician,31,Houston,No,7058.07
+561,42,74813.0,High School,Engineer,31,San Francisco,No,9477.73
+562,39,,Bachelor's,Engineer,24,New York,Yes,6984.13
+563,30,38820.0,High School,Clerk,32,New York,No,3650.36
+564,36,54070.0,Bachelor's,Engineer,6,Chicago,No,5255.5
+565,53,,PhD,Engineer,11,San Francisco,No,6634.39
+566,29,,PhD,Manager,15,Houston,No,5350.42
+567,58,110559.0,PhD,Clerk,15,Houston,Yes,1639.55
+568,36,103543.0,PhD,Manager,35,Houston,Yes,3464.61
+569,29,113441.0,Bachelor's,Technician,12,Chicago,No,8122.76
+570,26,71786.0,Master's,Engineer,6,New York,No,8683.47
+571,24,124934.0,Bachelor's,Technician,35,Houston,Yes,1804.35
+572,45,,High School,,8,New York,Yes,9547.67
+573,31,36737.0,PhD,Engineer,31,Chicago,No,3623.81
+574,48,66062.0,PhD,Engineer,10,San Francisco,No,6791.98
+575,36,84237.0,High School,Manager,7,San Francisco,Yes,7642.34
+576,64,81571.0,Bachelor's,Manager,32,San Francisco,Yes,8213.49
+577,33,55510.0,Master's,Manager,22,Houston,Yes,9484.62
+578,22,49426.0,Master's,Manager,24,San Francisco,Yes,3472.74
+579,52,67265.0,High School,Manager,7,Houston,Yes,8655.81
+580,29,47850.0,Master's,Engineer,21,Chicago,Yes,1751.03
+581,42,148249.0,Bachelor's,Manager,3,Chicago,No,7197.89
+582,38,96150.0,Bachelor's,Engineer,39,Houston,Yes,7548.79
+583,53,117312.0,,Engineer,2,New York,Yes,6938.37
+584,40,119613.0,,Manager,28,San Francisco,Yes,2896.99
+585,33,,PhD,Manager,28,San Francisco,Yes,8793.91
+586,56,82375.0,High School,Clerk,33,San Francisco,No,2104.16
+587,62,65435.0,Bachelor's,Engineer,33,Houston,No,1009.53
+588,59,126443.0,High School,Manager,27,Chicago,Yes,7315.92
+589,56,87132.0,Master's,Manager,12,San Francisco,No,5017.02
+590,31,108945.0,Bachelor's,Manager,14,Chicago,No,8566.43
+591,48,112050.0,PhD,Clerk,22,San Francisco,No,4142.27
+592,22,125402.0,Bachelor's,Clerk,25,San Francisco,No,2098.65
+593,52,32983.0,High School,Technician,3,Houston,No,8446.2
+594,40,127241.0,High School,Engineer,25,New York,No,5714.64
+595,46,50662.0,Bachelor's,Technician,39,Houston,Yes,2297.36
+596,60,53510.0,PhD,Manager,8,San Francisco,Yes,7343.65
+597,28,,PhD,,4,San Francisco,Yes,5355.58
+598,35,70998.0,PhD,Clerk,31,New York,Yes,6240.97
+599,64,86846.0,High School,Technician,19,Chicago,Yes,4878.53
+600,29,124071.0,Bachelor's,Clerk,10,Chicago,No,8372.74
+601,26,36640.0,Master's,Manager,14,San Francisco,Yes,8380.85
+602,27,74547.0,High School,Clerk,31,Chicago,Yes,7239.19
+603,61,84620.0,PhD,Technician,27,San Francisco,No,1501.31
+604,34,45317.0,Bachelor's,Manager,21,New York,No,8469.11
+605,55,145608.0,PhD,Technician,16,New York,Yes,6874.62
+606,24,37564.0,Master's,Clerk,25,San Francisco,No,7121.73
+607,63,57345.0,PhD,Technician,6,New York,No,3948.34
+608,30,143824.0,PhD,Technician,25,Houston,No,8853.16
+609,57,124223.0,Master's,Engineer,24,Houston,No,7391.03
+610,59,109273.0,Bachelor's,Clerk,9,New York,Yes,1569.61
+611,26,104859.0,High School,,18,San Francisco,No,4373.89
+612,44,110765.0,Bachelor's,Technician,10,San Francisco,Yes,8920.61
+613,19,140017.0,Master's,Engineer,12,New York,Yes,948.37
+614,22,,PhD,Clerk,7,Chicago,No,9633.46
+615,46,82393.0,Bachelor's,Manager,39,Houston,No,6952.04
+616,54,96081.0,High School,Technician,3,Chicago,No,6498.07
+617,55,132650.0,Master's,Clerk,30,San Francisco,Yes,3070.31
+618,36,59430.0,Bachelor's,Manager,27,San Francisco,No,2863.52
+619,25,105532.0,High School,Clerk,10,Chicago,No,9449.55
+620,62,57788.0,Master's,Manager,0,New York,No,3333.59
+621,18,125505.0,High School,Technician,37,Chicago,No,7867.3
+622,39,78543.0,Master's,Clerk,23,Chicago,No,4234.66
+623,34,43919.0,PhD,Clerk,30,Houston,Yes,1822.91
+624,24,99346.0,Bachelor's,Engineer,25,Houston,No,601.8
+625,42,126122.0,High School,Technician,4,Chicago,No,5670.44
+626,62,69974.0,Master's,Manager,19,Chicago,No,9769.9
+627,21,137309.0,High School,Clerk,10,San Francisco,Yes,4006.79
+628,53,46371.0,High School,Clerk,32,Houston,No,3893.33
+629,23,75084.0,Bachelor's,Manager,37,Houston,Yes,3768.87
+630,48,59629.0,PhD,Technician,26,San Francisco,Yes,5445.17
+631,36,81184.0,High School,Engineer,33,New York,No,4686.32
+632,61,91916.0,Master's,Engineer,14,Houston,No,8859.19
+633,56,103972.0,,Clerk,31,Houston,No,5302.45
+634,44,92187.0,PhD,Manager,20,New York,Yes,5323.7
+635,27,42984.0,Master's,Clerk,4,Houston,Yes,1814.53
+636,43,63039.0,PhD,Manager,5,Houston,Yes,9836.03
+637,36,115431.0,Master's,Engineer,37,New York,Yes,2874.74
+638,56,113691.0,Bachelor's,Technician,21,New York,Yes,1196.96
+639,20,88606.0,High School,Manager,17,Chicago,Yes,6799.89
+640,62,40616.0,Bachelor's,Engineer,13,San Francisco,No,6155.98
+641,30,132665.0,High School,Clerk,9,San Francisco,No,4443.88
+642,45,135373.0,High School,Manager,12,New York,Yes,4510.83
+643,37,80072.0,High School,Technician,30,New York,No,7958.11
+644,45,54574.0,Bachelor's,,29,Houston,No,2359.27
+645,25,33430.0,High School,Clerk,2,Chicago,Yes,8292.41
+646,58,149123.0,Bachelor's,Engineer,29,Chicago,Yes,6663.1
+647,56,42676.0,PhD,Manager,5,New York,No,4480.21
+648,18,40816.0,Master's,Clerk,28,Houston,Yes,4851.27
+649,20,62733.0,Master's,Technician,7,Houston,Yes,2938.15
+650,30,115680.0,High School,Manager,32,San Francisco,No,7645.09
+651,45,32050.0,Bachelor's,Technician,16,San Francisco,Yes,5372.31
+652,42,139996.0,Master's,Clerk,10,Houston,No,3548.12
+653,50,63933.0,Bachelor's,Technician,12,San Francisco,No,6162.48
+654,55,54951.0,,Engineer,10,New York,No,9959.48
+655,23,62413.0,High School,Technician,30,Houston,No,4634.99
+656,61,64801.0,Master's,Manager,27,San Francisco,No,9246.57
+657,62,85619.0,High School,Technician,5,Chicago,Yes,3777.66
+658,49,62913.0,High School,Technician,15,Houston,Yes,1019.96
+659,62,142573.0,Master's,Engineer,3,Houston,Yes,2440.3
+660,64,149076.0,Master's,Technician,34,Chicago,Yes,4477.6
+661,38,70600.0,PhD,Technician,25,New York,No,2586.53
+662,33,87775.0,PhD,Clerk,11,Chicago,No,502.16
+663,38,120816.0,Bachelor's,Clerk,10,Houston,Yes,9192.51
+664,28,120093.0,Master's,Manager,36,New York,No,8516.85
+665,54,142590.0,PhD,Clerk,24,San Francisco,Yes,7551.78
+666,53,65400.0,Bachelor's,Clerk,17,San Francisco,Yes,2094.24
+667,52,34494.0,Bachelor's,Clerk,18,San Francisco,Yes,1643.45
+668,36,110688.0,Bachelor's,Clerk,22,Houston,No,1142.25
+669,37,119431.0,PhD,Engineer,37,Chicago,No,7378.28
+670,35,104691.0,Master's,Clerk,17,New York,No,9323.68
+671,64,127419.0,High School,Engineer,25,San Francisco,No,4590.09
+672,58,138730.0,Bachelor's,Engineer,5,New York,Yes,1631.84
+673,31,,PhD,Clerk,3,Houston,No,5367.73
+674,32,97364.0,PhD,Technician,28,San Francisco,No,3813.9
+675,48,75028.0,High School,Engineer,33,Houston,No,4060.84
+676,18,137434.0,High School,Technician,16,Chicago,Yes,6402.64
+677,20,127659.0,PhD,Technician,15,Houston,Yes,7327.82
+678,33,67573.0,Master's,Clerk,1,Houston,No,1550.73
+679,40,30806.0,High School,Manager,33,Chicago,No,838.11
+680,28,86638.0,PhD,Clerk,7,New York,No,9946.14
+681,29,136506.0,High School,Manager,12,Chicago,No,2710.92
+682,27,59757.0,Master's,Manager,7,Chicago,Yes,1011.39
+683,49,64636.0,Bachelor's,Clerk,29,Houston,No,2303.82
+684,33,110097.0,High School,Clerk,31,New York,No,870.1
+685,25,78280.0,Master's,Manager,35,San Francisco,No,4222.2
+686,55,54262.0,PhD,Clerk,29,Chicago,Yes,8122.82
+687,29,110435.0,High School,Manager,0,New York,Yes,3741.82
+688,41,92211.0,High School,Technician,38,Chicago,No,4719.74
+689,45,84842.0,PhD,Clerk,16,Chicago,No,6918.07
+690,25,86979.0,Bachelor's,Technician,19,Chicago,No,5334.49
+691,45,144524.0,PhD,Engineer,23,Chicago,No,8683.73
+692,53,111470.0,High School,Technician,21,Houston,No,8727.34
+693,43,68197.0,PhD,Technician,28,New York,Yes,594.15
+694,25,71844.0,Master's,Manager,21,New York,Yes,7891.44
+695,45,94754.0,PhD,Technician,8,New York,Yes,4876.97
+696,45,,High School,Clerk,36,Chicago,No,9893.99
+697,54,64157.0,PhD,Manager,9,Houston,Yes,5090.7
+698,58,107129.0,Bachelor's,Engineer,35,Chicago,Yes,9875.51
+699,53,70042.0,PhD,Clerk,36,Chicago,Yes,7668.41
+700,44,91665.0,Bachelor's,Engineer,27,New York,No,2861.75
+701,34,145512.0,Master's,Technician,27,Chicago,No,5614.75
+702,26,146953.0,Bachelor's,Clerk,20,San Francisco,Yes,9925.29
+703,50,112856.0,PhD,Clerk,23,Chicago,No,8646.54
+704,37,57376.0,High School,Engineer,39,San Francisco,Yes,1424.99
+705,30,139049.0,Bachelor's,Clerk,1,Chicago,Yes,7210.53
+706,45,85554.0,Master's,Clerk,7,Houston,Yes,3783.01
+707,46,44199.0,Bachelor's,Clerk,26,Houston,Yes,566.33
+708,30,148533.0,Bachelor's,Technician,21,New York,No,4333.07
+709,63,111412.0,Bachelor's,Engineer,36,Chicago,No,2730.17
+710,52,80948.0,Master's,Clerk,26,San Francisco,No,8279.26
+711,23,103781.0,PhD,Manager,28,San Francisco,No,3704.64
+712,35,102750.0,Bachelor's,Manager,2,Chicago,Yes,8361.48
+713,22,96262.0,Bachelor's,Manager,12,San Francisco,No,505.68
+714,64,147424.0,High School,Manager,9,Houston,Yes,3424.28
+715,42,76600.0,Master's,Technician,35,San Francisco,No,2791.07
+716,19,106898.0,Bachelor's,Clerk,8,New York,No,2718.89
+717,27,92483.0,Master's,Engineer,26,Houston,No,1147.77
+718,47,48297.0,Bachelor's,Clerk,33,Houston,Yes,2277.68
+719,62,60448.0,PhD,Technician,0,Houston,Yes,5777.72
+720,22,56172.0,PhD,Manager,31,Chicago,Yes,3267.93
+721,50,72874.0,Bachelor's,Technician,24,Chicago,Yes,4465.25
+722,18,,PhD,Clerk,28,Houston,No,4080.24
+723,35,114386.0,Bachelor's,Engineer,6,Chicago,Yes,8821.1
+724,49,55425.0,PhD,Technician,2,San Francisco,Yes,9100.34
+725,64,56685.0,High School,Engineer,19,Chicago,No,5183.09
+726,28,,High School,Technician,19,Chicago,No,3636.48
+727,38,54578.0,High School,Engineer,29,Houston,Yes,1514.61
+728,43,58831.0,Master's,Engineer,34,New York,No,9557.33
+729,42,37906.0,Master's,Manager,34,New York,Yes,1072.16
+730,39,91413.0,High School,Engineer,38,New York,No,3327.68
+731,44,84028.0,Master's,Manager,26,San Francisco,Yes,3331.63
+732,30,37287.0,PhD,Clerk,25,Chicago,Yes,3543.81
+733,50,63660.0,Bachelor's,Clerk,13,New York,Yes,2060.73
+734,51,,Bachelor's,Manager,16,Houston,Yes,7940.03
+735,58,90504.0,Bachelor's,Manager,17,New York,Yes,1663.73
+736,52,89720.0,High School,Technician,28,New York,No,6531.61
+737,18,132979.0,Master's,Technician,19,Chicago,Yes,1676.54
+738,38,64701.0,PhD,Technician,26,Chicago,Yes,1170.09
+739,23,113300.0,PhD,Clerk,17,Chicago,Yes,9139.58
+740,45,140177.0,High School,Technician,3,San Francisco,Yes,2306.22
+741,34,47674.0,PhD,Engineer,0,San Francisco,Yes,8301.88
+742,22,113560.0,PhD,Engineer,0,New York,No,5673.99
+743,48,141543.0,PhD,Technician,25,Chicago,No,1239.64
+744,22,53874.0,PhD,Engineer,19,New York,Yes,9576.76
+745,55,73642.0,Master's,Clerk,22,Houston,No,2846.13
+746,20,127820.0,PhD,Engineer,9,Houston,Yes,8666.63
+747,40,95160.0,Bachelor's,Clerk,10,Chicago,No,2103.7
+748,54,47602.0,High School,Manager,4,Chicago,No,8612.46
+749,54,133320.0,Master's,Manager,0,Houston,Yes,625.67
+750,27,118801.0,,Manager,16,Chicago,No,5361.91
+751,27,55931.0,Master's,Manager,21,San Francisco,No,7809.7
+752,36,124377.0,PhD,Engineer,33,San Francisco,Yes,9380.56
+753,34,,Bachelor's,Technician,28,Chicago,Yes,9137.42
+754,38,76542.0,High School,Engineer,3,Houston,No,8286.44
+755,31,72520.0,PhD,Clerk,4,New York,No,8937.82
+756,26,94772.0,PhD,Engineer,10,Chicago,No,2392.59
+757,63,88762.0,PhD,Engineer,20,Chicago,Yes,3199.75
+758,18,80106.0,PhD,Clerk,34,New York,No,3245.2
+759,62,111121.0,High School,Manager,11,Chicago,No,4082.01
+760,30,55559.0,High School,Manager,25,New York,No,4236.55
+761,21,135595.0,Bachelor's,Manager,18,Houston,Yes,5673.28
+762,18,63742.0,,Technician,6,San Francisco,Yes,2018.86
+763,57,99669.0,,Clerk,6,Houston,Yes,7066.84
+764,49,110199.0,Bachelor's,Clerk,25,San Francisco,Yes,2091.88
+765,51,51754.0,Bachelor's,Engineer,39,New York,No,3447.93
+766,45,33972.0,Bachelor's,Technician,4,San Francisco,Yes,5281.78
+767,48,100831.0,PhD,Manager,20,Houston,No,8066.19
+768,25,142217.0,Master's,Technician,13,San Francisco,No,7524.96
+769,56,71873.0,PhD,Clerk,3,New York,No,6632.58
+770,43,124661.0,High School,Clerk,22,San Francisco,No,1979.85
+771,51,136532.0,High School,Engineer,19,Chicago,Yes,5696.93
+772,20,39903.0,,Engineer,14,Houston,Yes,1330.74
+773,29,33020.0,PhD,,28,Chicago,Yes,4084.95
+774,18,71755.0,Bachelor's,Manager,7,New York,Yes,4428.41
+775,61,115956.0,PhD,Manager,18,San Francisco,Yes,878.21
+776,22,116988.0,Bachelor's,Technician,38,Chicago,No,3102.89
+777,47,75648.0,High School,Clerk,27,Chicago,Yes,9578.67
+778,47,133537.0,Bachelor's,Clerk,26,San Francisco,Yes,9559.51
+779,34,39516.0,PhD,Manager,3,San Francisco,Yes,3847.11
+780,64,142863.0,High School,Manager,14,Houston,Yes,909.45
+781,40,145005.0,Master's,Clerk,34,Chicago,No,2201.4
+782,32,32396.0,Bachelor's,Engineer,36,Chicago,No,4226.07
+783,54,114082.0,High School,Clerk,0,New York,No,9503.91
+784,38,49129.0,Bachelor's,Clerk,2,Houston,No,1841.39
+785,31,31591.0,High School,Manager,23,New York,No,7753.4
+786,19,41303.0,High School,Manager,26,Chicago,Yes,1532.48
+787,28,60561.0,Bachelor's,Engineer,39,New York,No,9821.95
+788,56,101719.0,Master's,Engineer,35,Chicago,No,4125.36
+789,55,148618.0,High School,Technician,33,Chicago,No,7864.73
+790,51,122108.0,High School,Clerk,28,New York,Yes,3754.62
+791,55,129616.0,High School,Manager,23,New York,Yes,6462.85
+792,51,116231.0,Master's,Engineer,23,San Francisco,No,2324.15
+793,35,,Master's,Technician,3,San Francisco,Yes,1887.2
+794,47,147071.0,PhD,Technician,2,San Francisco,Yes,9411.61
+795,32,49623.0,Bachelor's,Manager,33,Chicago,No,9217.65
+796,44,97675.0,Master's,Manager,22,New York,Yes,8930.95
+797,51,142992.0,Bachelor's,Technician,22,Houston,Yes,6441.62
+798,55,126826.0,PhD,Engineer,4,Chicago,Yes,8178.55
+799,50,95082.0,Bachelor's,Technician,30,Houston,No,1155.85
+800,41,113624.0,,Clerk,5,New York,No,3680.5
+801,32,135228.0,Bachelor's,Clerk,36,Chicago,No,3480.18
+802,47,,Master's,Manager,9,Houston,Yes,6538.63
+803,59,81756.0,Bachelor's,Engineer,39,Houston,No,3881.6
+804,34,127624.0,Master's,Engineer,6,San Francisco,Yes,1910.81
+805,22,56292.0,Master's,Clerk,38,San Francisco,Yes,6166.44
+806,46,141785.0,,Technician,37,San Francisco,Yes,8236.65
+807,21,,PhD,Manager,20,Chicago,No,4130.17
+808,27,99274.0,High School,Technician,19,New York,No,1756.55
+809,34,32469.0,PhD,Technician,2,New York,No,2368.54
+810,27,83947.0,Bachelor's,Technician,21,San Francisco,No,2756.09
+811,34,52534.0,PhD,Engineer,3,San Francisco,Yes,3349.03
+812,37,93620.0,Master's,Clerk,27,San Francisco,No,6606.55
+813,41,78874.0,High School,Engineer,11,Houston,Yes,6208.98
+814,22,79708.0,Bachelor's,Clerk,37,San Francisco,No,7112.76
+815,51,104553.0,Bachelor's,Manager,35,Houston,No,3943.77
+816,23,98344.0,Bachelor's,Manager,4,New York,No,8327.98
+817,19,79138.0,High School,Technician,12,Chicago,Yes,2438.83
+818,30,84302.0,Master's,Clerk,22,Chicago,Yes,4955.89
+819,60,77638.0,Bachelor's,,29,Chicago,Yes,8108.92
+820,60,108249.0,PhD,Clerk,36,Chicago,Yes,2211.51
+821,28,135865.0,Bachelor's,Technician,24,Houston,Yes,1543.7
+822,64,32719.0,Bachelor's,Technician,26,Houston,No,8895.0
+823,40,52890.0,Bachelor's,Manager,13,San Francisco,Yes,3757.83
+824,33,107236.0,Bachelor's,Engineer,35,Houston,Yes,6996.77
+825,48,66509.0,Master's,Clerk,38,San Francisco,Yes,740.81
+826,28,72534.0,PhD,Clerk,15,San Francisco,Yes,7055.45
+827,33,132302.0,Master's,Engineer,21,Chicago,No,3502.96
+828,25,122241.0,,Clerk,20,Houston,Yes,1029.54
+829,21,48787.0,Bachelor's,Technician,20,Houston,No,6293.22
+830,57,78845.0,High School,Technician,7,San Francisco,No,2787.64
+831,21,87932.0,Master's,Clerk,15,San Francisco,No,4174.67
+832,42,122124.0,High School,Technician,30,New York,Yes,1265.52
+833,20,121659.0,Master's,Technician,9,New York,No,1898.05
+834,49,63062.0,Bachelor's,Clerk,31,San Francisco,Yes,3330.78
+835,20,105713.0,Master's,Manager,33,New York,Yes,1352.72
+836,44,117263.0,Bachelor's,Engineer,8,New York,Yes,9152.85
+837,46,125756.0,Master's,Technician,16,San Francisco,Yes,557.45
+838,49,90461.0,Bachelor's,Manager,10,San Francisco,Yes,5096.67
+839,36,105418.0,Bachelor's,Technician,31,Houston,No,1670.85
+840,38,96672.0,PhD,Technician,9,San Francisco,No,3422.95
+841,22,64832.0,Bachelor's,Engineer,21,San Francisco,Yes,9297.57
+842,35,61966.0,PhD,Technician,16,Chicago,No,2036.1
+843,45,102545.0,Bachelor's,Engineer,3,Houston,Yes,9675.41
+844,59,42987.0,High School,Engineer,24,Houston,No,2455.05
+845,39,67311.0,Bachelor's,Engineer,20,Houston,No,7544.88
+846,38,61575.0,High School,Manager,36,Chicago,No,5693.43
+847,23,93852.0,High School,Clerk,37,San Francisco,No,8902.55
+848,18,31007.0,Bachelor's,Manager,0,Houston,No,5762.94
+849,22,100981.0,High School,Clerk,24,Houston,Yes,5578.31
+850,58,106242.0,PhD,Clerk,35,New York,Yes,2356.85
+851,29,77517.0,Master's,Engineer,16,Houston,No,2079.18
+852,43,140022.0,Bachelor's,Technician,23,San Francisco,Yes,9206.65
+853,63,59257.0,High School,Engineer,1,San Francisco,No,3614.46
+854,51,117272.0,Bachelor's,Technician,39,New York,Yes,4034.78
+855,31,72207.0,PhD,Clerk,14,Houston,No,7718.32
+856,43,43281.0,Bachelor's,Engineer,31,Houston,No,3718.82
+857,62,91246.0,Bachelor's,Technician,38,Houston,No,9544.59
+858,44,31435.0,High School,Manager,5,Chicago,Yes,7510.31
+859,26,128875.0,PhD,Technician,0,Houston,Yes,6175.58
+860,43,130686.0,Master's,Engineer,22,San Francisco,No,8868.5
+861,64,121357.0,Master's,Manager,38,San Francisco,No,971.26
+862,39,56660.0,High School,Technician,16,Chicago,Yes,2942.1
+863,64,35084.0,Bachelor's,Technician,33,Chicago,Yes,4917.85
+864,47,112197.0,High School,Technician,28,Houston,Yes,2656.3
+865,60,43507.0,High School,Technician,8,New York,Yes,7567.1
+866,34,102595.0,High School,Technician,12,Chicago,Yes,9232.48
+867,43,113807.0,Bachelor's,Manager,5,Chicago,No,4525.82
+868,53,75539.0,PhD,Clerk,5,Houston,Yes,3750.26
+869,18,145953.0,High School,Manager,19,Houston,No,9634.73
+870,25,,Bachelor's,Manager,2,Chicago,No,4726.1
+871,52,142831.0,PhD,Manager,16,New York,Yes,5145.96
+872,32,80192.0,High School,Clerk,11,Chicago,Yes,3840.67
+873,64,110395.0,Master's,Engineer,0,Houston,No,9140.71
+874,39,93888.0,PhD,Clerk,16,Houston,Yes,5905.08
+875,31,103609.0,High School,Manager,2,Chicago,No,7740.66
+876,43,39077.0,PhD,Technician,25,New York,Yes,8212.16
+877,45,147440.0,PhD,Technician,14,Chicago,Yes,3747.57
+878,40,50953.0,PhD,Manager,35,Chicago,Yes,4620.1
+879,31,106919.0,PhD,Technician,31,Houston,No,8560.48
+880,41,144682.0,PhD,Manager,31,New York,Yes,3950.93
+881,19,,PhD,Technician,3,San Francisco,No,8042.38
+882,62,53821.0,High School,Clerk,17,New York,Yes,9439.43
+883,43,67567.0,Master's,Engineer,18,Chicago,No,6420.5
+884,31,145374.0,Bachelor's,Engineer,34,Chicago,Yes,7545.46
+885,24,54860.0,PhD,Clerk,39,Chicago,No,8148.42
+886,20,51195.0,Bachelor's,Clerk,13,New York,No,8527.88
+887,64,107475.0,High School,Manager,32,Houston,No,4253.01
+888,40,120874.0,PhD,,13,Chicago,No,987.0
+889,63,117266.0,Master's,Manager,33,Chicago,No,4317.82
+890,60,51427.0,Bachelor's,Technician,3,New York,No,6900.68
+891,64,130732.0,PhD,,23,San Francisco,Yes,4778.33
+892,62,57083.0,High School,Clerk,28,San Francisco,No,7615.15
+893,35,117046.0,Master's,Engineer,18,Houston,No,3891.33
+894,55,87372.0,Bachelor's,Technician,5,Houston,No,6530.07
+895,52,74064.0,Bachelor's,Manager,32,Chicago,Yes,2270.99
+896,32,37813.0,PhD,Technician,39,New York,Yes,7619.01
+897,42,61598.0,Master's,Technician,18,Chicago,Yes,5684.11
+898,54,142718.0,Master's,Manager,0,Houston,No,2438.61
+899,45,123106.0,Master's,Technician,4,New York,Yes,3273.16
+900,27,57082.0,Master's,Engineer,26,New York,Yes,7611.78
+901,56,59241.0,High School,Clerk,15,Houston,No,5084.71
+902,34,126214.0,Master's,Clerk,5,San Francisco,No,2552.3
+903,56,74569.0,Bachelor's,Engineer,39,San Francisco,Yes,9689.08
+904,39,41745.0,Bachelor's,Technician,12,New York,No,7293.69
+905,43,56029.0,High School,Manager,34,Chicago,No,9592.78
+906,61,43025.0,Bachelor's,Technician,18,San Francisco,No,4557.5
+907,42,131660.0,Bachelor's,Engineer,11,Chicago,No,5013.45
+908,34,,Master's,Technician,15,San Francisco,Yes,9030.57
+909,30,119186.0,Bachelor's,Clerk,9,San Francisco,No,5487.97
+910,37,36540.0,High School,Technician,24,Chicago,Yes,7219.15
+911,42,127768.0,Master's,Engineer,19,Houston,Yes,2895.64
+912,21,111958.0,PhD,Clerk,30,San Francisco,Yes,4743.9
+913,27,98878.0,Master's,Technician,3,San Francisco,Yes,1672.77
+914,20,71846.0,High School,Technician,22,Chicago,No,2456.81
+915,58,131148.0,Master's,Clerk,1,Houston,No,508.96
+916,62,105932.0,Master's,Manager,21,San Francisco,No,873.02
+917,35,47482.0,High School,Clerk,36,San Francisco,Yes,9784.2
+918,64,53411.0,Master's,Manager,7,Houston,Yes,2802.36
+919,53,80975.0,High School,Engineer,6,San Francisco,Yes,6801.45
+920,64,90545.0,High School,Engineer,13,Houston,No,8471.45
+921,39,142302.0,PhD,Clerk,2,Houston,Yes,5731.27
+922,51,108797.0,Bachelor's,Clerk,15,Chicago,No,1954.87
+923,64,82307.0,Bachelor's,Engineer,18,New York,No,7417.11
+924,25,33093.0,Master's,Manager,17,Houston,No,6202.39
+925,57,107258.0,Master's,Engineer,15,Chicago,No,7446.88
+926,61,52042.0,PhD,Clerk,7,New York,Yes,7812.59
+927,36,82930.0,PhD,Engineer,32,San Francisco,No,9766.4
+928,59,147584.0,PhD,Clerk,11,New York,Yes,5948.85
+929,58,74413.0,High School,Clerk,10,Houston,No,3745.59
+930,54,143387.0,PhD,Engineer,4,Houston,Yes,6660.41
+931,23,123623.0,PhD,Manager,26,Houston,Yes,1150.19
+932,43,127883.0,Master's,Technician,11,Houston,No,9025.27
+933,51,63756.0,PhD,Engineer,16,Houston,No,1634.12
+934,62,,High School,Technician,5,Chicago,No,3614.51
+935,23,69214.0,High School,Engineer,32,Houston,Yes,8249.58
+936,54,111871.0,Master's,Technician,4,Chicago,No,6174.47
+937,50,58602.0,PhD,Manager,27,San Francisco,No,4239.54
+938,39,83331.0,PhD,Manager,13,Houston,Yes,4997.64
+939,38,78901.0,High School,Engineer,4,Houston,No,8618.2
+940,23,129986.0,PhD,Clerk,32,New York,Yes,3730.04
+941,23,93416.0,PhD,Technician,18,San Francisco,No,8761.67
+942,21,,PhD,Clerk,21,Houston,Yes,1337.28
+943,47,,Bachelor's,Clerk,4,Houston,Yes,7879.59
+944,28,37424.0,Master's,Clerk,1,San Francisco,No,8551.7
+945,47,42857.0,Bachelor's,Manager,29,Chicago,Yes,2227.27
+946,48,140459.0,Master's,Engineer,38,Houston,No,4588.29
+947,41,145621.0,High School,Engineer,3,New York,No,2072.25
+948,26,49982.0,PhD,Manager,32,Houston,Yes,7212.74
+949,20,106961.0,Master's,Manager,12,New York,No,5585.8
+950,48,31980.0,Bachelor's,Engineer,19,New York,Yes,6535.57
+951,57,78290.0,PhD,Clerk,6,Houston,Yes,2366.63
+952,54,56431.0,High School,Technician,14,Houston,Yes,2511.59
+953,53,114976.0,,Technician,22,New York,Yes,894.22
+954,41,137288.0,Master's,Technician,13,San Francisco,Yes,3559.64
+955,48,,Master's,Clerk,22,San Francisco,Yes,5817.57
+956,23,144187.0,PhD,Engineer,18,Houston,Yes,8650.38
+957,19,56385.0,Bachelor's,Manager,28,Chicago,Yes,6835.81
+958,37,68158.0,,Engineer,19,San Francisco,No,4636.27
+959,45,53019.0,Master's,Clerk,28,Houston,No,9554.64
+960,28,,High School,Manager,23,San Francisco,Yes,7332.83
+961,21,115530.0,High School,Clerk,17,Chicago,No,9336.57
+962,32,129911.0,Bachelor's,Technician,9,Houston,No,5512.09
+963,23,51563.0,High School,Technician,7,Chicago,No,2959.59
+964,47,69341.0,Bachelor's,Clerk,25,Houston,No,1001.85
+965,55,145672.0,Master's,Manager,28,Chicago,No,7397.81
+966,19,35776.0,Bachelor's,Manager,9,San Francisco,No,1652.38
+967,32,66444.0,Bachelor's,Engineer,16,San Francisco,Yes,3376.36
+968,28,98916.0,Master's,Technician,1,Chicago,No,5558.47
+969,25,38711.0,High School,Engineer,5,Chicago,No,5861.96
+970,43,,Bachelor's,Engineer,4,Chicago,No,6205.54
+971,62,112970.0,Bachelor's,Clerk,27,Houston,No,2079.43
+972,61,142301.0,Master's,Clerk,4,San Francisco,Yes,4107.51
+973,22,115553.0,High School,Engineer,17,Houston,Yes,6363.35
+974,23,60707.0,Bachelor's,Technician,25,San Francisco,Yes,9713.28
+975,43,69110.0,Master's,Clerk,19,New York,Yes,7412.5
+976,21,,Bachelor's,Engineer,26,Houston,No,9264.74
+977,36,112879.0,PhD,Engineer,11,San Francisco,Yes,7741.01
+978,37,68827.0,Master's,Engineer,6,San Francisco,Yes,6121.31
+979,50,137188.0,High School,Engineer,2,Houston,Yes,2324.22
+980,37,35655.0,High School,Engineer,9,Houston,Yes,6833.51
+981,29,74859.0,High School,Engineer,33,San Francisco,No,6422.11
+982,64,83625.0,High School,Clerk,24,Houston,Yes,6223.46
+983,18,82098.0,Bachelor's,Technician,34,Chicago,No,5152.97
+984,43,45251.0,Bachelor's,Engineer,15,Houston,Yes,5522.24
+985,31,30526.0,High School,Manager,1,Houston,No,3677.2
+986,55,98760.0,High School,Clerk,23,Houston,No,5433.47
+987,54,77837.0,High School,Clerk,9,San Francisco,Yes,2376.78
+988,28,41536.0,Bachelor's,Engineer,37,Chicago,Yes,8149.16
+989,53,58541.0,High School,Clerk,21,New York,Yes,2264.88
+990,30,109083.0,High School,,25,New York,Yes,1307.18
+991,60,81027.0,PhD,Technician,38,Chicago,No,4644.34
+992,20,64531.0,PhD,Technician,26,Chicago,No,6753.92
+993,50,38712.0,High School,Clerk,28,Chicago,Yes,4658.31
+994,23,134101.0,Master's,Clerk,37,San Francisco,Yes,3129.16
+995,27,95455.0,High School,Manager,19,New York,No,5802.63
+996,22,104744.0,PhD,Clerk,26,Chicago,Yes,3796.52
+997,40,35109.0,Master's,Manager,19,San Francisco,No,9362.24
+998,27,79268.0,Master's,Technician,18,New York,Yes,9265.13
+999,61,130737.0,High School,Technician,19,Houston,No,5272.53
+1000,19,84615.0,PhD,Engineer,34,San Francisco,No,3614.9
